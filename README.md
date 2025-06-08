@@ -2,6 +2,9 @@
 
 A real-time chat application built with React, Node.js, and Stream Chat.
 
+![image](https://github.com/user-attachments/assets/c2ac9527-6869-48a1-bf1d-cac3b121160b)
+
+
 ## Project Structure
 
 ```
